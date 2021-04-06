@@ -1,0 +1,260 @@
+    @media screen and (min-width: 100px) and (max-width: 768.9px) {}
+    
+    @media screen and (min-width: 769px) {
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        html {
+            background-color: #79a4b8;
+        }
+        body {
+            width: 100%;
+        }
+        /* Header */
+        header {
+            width: 98.9vw;
+            height: 20vh;
+            display: flex;
+            flex-direction: row;
+            background-color: #3599c7;
+        }
+        .item_logo {
+            padding-left: 1vw;
+            max-width: 100%;
+            height: auto;
+        }
+        .item_nav {
+            background-color: rgba(255, 255, 255, 0);
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            justify-content: right;
+            align-items: center;
+            width: 200vw;
+            height: 10vh;
+        }
+        .item_nav ul {
+            width: 20vw;
+            margin-top: 4vh;
+            background-color: #1cbed400;
+            height: 5vh;
+            display: flex;
+            flex: 1;
+            flex-direction: row;
+            justify-content: center;
+            align-items: flex-end;
+        }
+        .item_nav li {
+            list-style: none;
+            height: 4vh;
+            padding-left: 2vw;
+        }
+        .item_nav li a {
+            padding: 1vw;
+            text-align: center;
+            text-decoration: none;
+            font-size: 1.6rem;
+            border-radius: 5%;
+            background-color: rgb(18, 88, 219);
+            color: #00f8f0;
+        }
+        .item_nav a:hover {
+            color: #1cbfd4;
+        }
+        /* Eind Header */
+        /* Producten section */
+        .producten img {
+            padding-top: 10vh;
+            max-width: 100%;
+            height: auto;
+        }
+        .Text1 {
+            position: absolute;
+            top: 40vh;
+            height: 10vh;
+            width: 98.9vw;
+            background-color: rgb(18, 88, 219);
+        }
+        .Text1 h1 {
+            text-align: center;
+            font-size: 65px;
+            color: #00f8f0;
+        }
+        .producten:nth-child(1) {
+            position: absolute;
+            top: 60vh;
+            left: 3vw;
+            height: 80vh;
+            width: 27vw;
+            border: solid black 2px;
+            background-color: #3599c7;
+        }
+        .producten:nth-child(2) {
+            position: absolute;
+            top: 60vh;
+            left: 36vw;
+            height: 80vh;
+            width: 27vw;
+            border: solid black 2px;
+            background-color: #3599c7;
+        }
+        .producten:nth-child(3) {
+            position: absolute;
+            top: 60vh;
+            left: 69vw;
+            height: 80vh;
+            width: 27vw;
+            border: solid black 2px;
+            background-color: #3599c7;
+        }
+        /* Evenementen */
+        .Text2 {
+            position: absolute;
+            top: 180vh;
+            height: 10vh;
+            width: 98.9vw;
+            background-color: rgb(18, 88, 219);
+        }
+        .Text2 h1 {
+            text-align: center;
+            font-size: 65px;
+            color: #00f8f0;
+        }
+        .evenementen img {
+            max-width: 100%;
+        }
+        .evenementen h2 {
+            text-align: center;
+            font-size: 25px;
+        }
+        .evenementen:nth-child(1) {
+            position: absolute;
+            top: 200vh;
+            left: 3vw;
+            height: 30vh;
+            width: 27vw;
+            border: solid black 2px;
+            background-color: #3599c7;
+        }
+        .evenementen:nth-child(2) {
+            position: absolute;
+            top: 200vh;
+            left: 36vw;
+            height: 31vh;
+            width: 27vw;
+            border: solid black 2px;
+            background-color: #3599c7;
+        }
+        .evenementen:nth-child(3) {
+            position: absolute;
+            top: 200vh;
+            left: 69vw;
+            height: 30vh;
+            width: 27vw;
+            border: solid black 2px;
+            background-color: #3599c7;
+        }
+        /* Evenementen Database Info */
+        .evenementen-namen:nth-child(1) {
+            padding-top: 10vh;
+            padding-left: 5vw;
+            text-align: left;
+            position: absolute;
+            top: 230vh;
+            left: 3vw;
+            height: 33vh;
+            width: 22vw;
+            border: solid black 2px;
+            background-color: #3599c7;
+        }
+        .evenementen-namen:nth-child(2) {
+            padding-top: 10vh;
+            padding-left: 5vw;
+            text-align: left;
+            position: absolute;
+            top: 230vh;
+            left: 36vw;
+            height: 33vh;
+            width: 22vw;
+            border: solid black 2px;
+            background-color: #3599c7;
+        }
+        .evenementen-namen:nth-child(3) {
+            padding-top: 10vh;
+            padding-left: 5vw;
+            text-align: left;
+            position: absolute;
+            top: 230vh;
+            left: 69vw;
+            height: 33vh;
+            width: 22vw;
+            border: solid black 2px;
+            background-color: #3599c7;
+        }
+        /* Kortingen */
+        .Text3 {
+            position: absolute;
+            top: 320vh;
+            height: 10vh;
+            width: 98.9vw;
+            background-color: rgb(18, 88, 219);
+        }
+        .Text3 h1 {
+            text-align: center;
+            font-size: 65px;
+            color: #00f8f0;
+        }
+        .kortingen img {
+            max-width: 100%;
+        }
+        .kortingen:nth-child(1) {
+            padding-top: 2vh;
+            text-align: center;
+            font-size: 25px;
+            color: #000000;
+            position: absolute;
+            top: 340vh;
+            left: 3vw;
+            height: 70vh;
+            width: 27vw;
+            border: solid black 2px;
+            background-color: #3599c7;
+        }
+        .kortingen:nth-child(2) {
+            padding-top: 2vh;
+            text-align: center;
+            font-size: 25px;
+            color: #000000;
+            position: absolute;
+            top: 340vh;
+            left: 36vw;
+            height: 70vh;
+            width: 27vw;
+            border: solid black 2px;
+            background-color: #3599c7;
+        }
+        .kortingen:nth-child(3) {
+            text-align: center;
+            font-size: 25px;
+            color: #000000;
+            position: absolute;
+            top: 340vh;
+            left: 69vw;
+            height: 72vh;
+            width: 27vw;
+            border: solid black 2px;
+            background-color: #3599c7;
+        }
+        .footer {
+            border: solid black 2px;
+            padding: 2%;
+            position: absolute;
+            top: 450vh;
+            height: 8vh;
+            width: 95.7%;
+            background-color: #3599c7;
+            color: black;
+            text-align: center;
+        }
+    }

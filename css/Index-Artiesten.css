@@ -1,0 +1,182 @@
+@media screen and (min-width: 100px) and (max-width: 768.9px) {}
+
+@media screen and (min-width: 769px) {
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    html {
+        background-color: #79a4b8;
+    }
+    body {
+        width: 100%;
+    }
+    /* Header */
+    header {
+        width: 98.9vw;
+        height: 20vh;
+        display: flex;
+        flex-direction: row;
+        background-color: #3599c7;
+    }
+    .item_logo {
+        padding-left: 1vw;
+    }
+    .item_nav {
+        background-color: rgba(255, 255, 255, 0);
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: right;
+        align-items: center;
+        width: 200vw;
+        height: 10vh;
+    }
+    .item_nav ul {
+        width: 20vw;
+        margin-top: 4vh;
+        background-color: #1cbed400;
+        height: 5vh;
+        display: flex;
+        flex: 1;
+        flex-direction: row;
+        justify-content: center;
+        align-items: flex-end;
+    }
+    .item_nav li {
+        list-style: none;
+        height: 4vh;
+        padding-left: 2vw;
+    }
+    .item_nav li a {
+        padding: 1vw;
+        text-align: center;
+        text-decoration: none;
+        font-size: 1.6rem;
+        border-radius: 5%;
+        background-color: rgb(18, 88, 219);
+        color: #00f8f0;
+    }
+    .item_nav a:hover {
+        color: #1cbfd4;
+    }
+    /* EVENEMENT 1 */
+    .eventDetails-Tekst1 {
+        position: absolute;
+        top: 30vh;
+        height: 10vh;
+        width: 98.9vw;
+        background-color: rgb(18, 88, 219);
+    }
+    .eventDetails-Tekst1 h1 {
+        text-align: center;
+        font-size: 65px;
+        color: #00f8f0;
+    }
+    .details:nth-child(1) {
+        padding: 2%;
+        text-align: left;
+        position: absolute;
+        top: 50vh;
+        left: 3vw;
+        height: 33vh;
+        width: 27vw;
+        border: solid black 2px;
+        background-color: #3599c7;
+    }
+    .details:nth-child(2) {
+        padding-top: 10vh;
+        padding-left: 5vw;
+        text-align: left;
+        position: absolute;
+        top: 50vh;
+        left: 35vw;
+        height: 31.5vh;
+        width: 58vw;
+        border: solid black 2px;
+        background-color: #3599c7;
+    }
+    /* EVENEMENT 2 */
+    .eventDetails-Tekst2 {
+        position: absolute;
+        top: 110vh;
+        height: 10vh;
+        width: 98.9vw;
+        background-color: rgb(18, 88, 219);
+    }
+    .eventDetails-Tekst2 h1 {
+        text-align: center;
+        font-size: 65px;
+        color: #00f8f0;
+    }
+    .details2:nth-child(1) {
+        padding: 2%;
+        text-align: left;
+        position: absolute;
+        top: 130vh;
+        left: 3vw;
+        height: 33vh;
+        width: 27vw;
+        border: solid black 2px;
+        background-color: #3599c7;
+    }
+    .details2:nth-child(2) {
+        padding-top: 10vh;
+        padding-left: 5vw;
+        text-align: left;
+        position: absolute;
+        top: 130vh;
+        left: 35vw;
+        height: 31.5vh;
+        width: 58vw;
+        border: solid black 2px;
+        background-color: #3599c7;
+    }
+    /* EVENEMENT 3 */
+    .eventDetails-Tekst3 {
+        position: absolute;
+        top: 190vh;
+        height: 10vh;
+        width: 98.9vw;
+        background-color: rgb(18, 88, 219);
+    }
+    .eventDetails-Tekst3 h1 {
+        text-align: center;
+        font-size: 65px;
+        color: #00f8f0;
+    }
+    .details3:nth-child(1) {
+        padding: 2%;
+        text-align: left;
+        position: absolute;
+        top: 210vh;
+        left: 3vw;
+        height: 33vh;
+        width: 27vw;
+        border: solid black 2px;
+        background-color: #3599c7;
+    }
+    .details3:nth-child(2) {
+        padding-top: 10vh;
+        padding-left: 5vw;
+        text-align: left;
+        position: absolute;
+        top: 210vh;
+        left: 35vw;
+        height: 31.5vh;
+        width: 58vw;
+        border: solid black 2px;
+        background-color: #3599c7;
+    }
+    .footer {
+        border: solid black 2px;
+        padding: 2%;
+        position: absolute;
+        top: 300vh;
+        height: 8vh;
+        width: 95.7%;
+        background-color: #3599c7;
+        color: black;
+        text-align: center;
+    }
+}
