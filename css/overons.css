@@ -60,4 +60,13 @@
     .item_nav a:hover {
         color: #1cbfd4;
     }
+    .text {
+        margin: 20px;
+        padding: 180px;
+        border: solid black 1px;
+        background-color: #3599c7;
+        text-align: center;
+        font-size: 25px;
+        color: black;
+    }
 }
