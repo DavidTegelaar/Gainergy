@@ -40,7 +40,7 @@
 
 <section class="eventDetails">
     <article class="details"><img src="pictures/Tones and I.png" alt="evenement1" height="230" width="415"></article>
-    <article class="details"><h1>Dit evenement van Tones And I wordt gegeven in Voorburg in het St. MaartenCollege. <br> Tones And I A.K.A Toni Watson, een Australische singer-songwriter die het bekendst is <br> door het nummer Dance Monkey met 15 weken op plek 1 van de Nederland top 40 <br> is toch een grote prestatie. In dit concert kunt u onderandere de liedjes "Johnny Run Away", <br> "Dance Monkey", "Never Seen The Rain" en vele andere beluisteren <br> in het eerste grote concert sinds Covid-19 in nederland!</h1></article>
+    <article class="details"><h1>Dit evenement van Tones And I wordt gegeven in Voorburg in het St. MaartenCollege. <br> Tones And I A.K.A <a href="artiesten.html">Toni Watson</a>, een Australische singer-songwriter die het bekendst is <br> door het nummer Dance Monkey met 15 weken op plek 1 van de Nederland top 40 <br> is toch een grote prestatie. In dit concert kunt u onderandere de liedjes "Johnny Run Away", <br> "Dance Monkey", "Never Seen The Rain" en vele andere beluisteren <br> in het eerste grote concert sinds Covid-19 in nederland!</h1></article>
 </section>
 
 <!-- EVENEMENT 2 -->
@@ -52,7 +52,7 @@
 
 <section class="eventDetails">
     <article class="details2"><img src="pictures/PostMalone.png" alt="evenement2" height="230" width="415"></article>
-    <article class="details2"><h1>Dit evenement van Post Malone wordt gegeven in Rotterdam bij het Erasmusbrug. <br> Post Malone staat het bekendst om zijn liedjes "Congratulations", "Rockstar", "Sunflower", "Psyco" <br> en nog vele andere. Post Malone heeft op 25 & 26 februari 2019 voor het eerst en laatst opgetreden. <br> Dit jaar komt hij terug met een hele grote show die mede gesponsord wordt door Gainergy! </h1></article>
+    <article class="details2"><h1>Dit evenement van Post Malone wordt gegeven in Rotterdam bij het Erasmusbrug. <br> <a href="artiesten.html">Post Malone</a> staat het bekendst om zijn liedjes "Congratulations", "Rockstar", "Sunflower", "Psyco" <br> en nog vele andere. Post Malone heeft op 25 & 26 februari 2019 voor het eerst en laatst opgetreden. <br> Dit jaar komt hij terug met een hele grote show die mede gesponsord wordt door Gainergy! </h1></article>
 </section>
 
 <!-- EVENEMENT 3 -->
@@ -64,7 +64,7 @@
 
 <section class="eventDetails">
     <article class="details3"><img src="pictures/Tones and I.png" alt="evenement3" height="230" width="415"></article>
-    <article class="details3"><h1>Dit evenement van Tones And I wordt gegeven in Den-Haag op Scheveningen Strand. <br> Tones And I A.K.A Toni Watson, een Australische singer-songwriter die het bekendst is <br> door het nummer Dance Monkey met 15 weken op plek 1 van de Nederland top 40 <br> is toch een grote prestatie. In dit concert kunt u onderandere de liedjes "Johnny Run Away", <br> "Dance Monkey", "Never Seen The Rain" en vele andere. <br> Ook dit evenement wordt mede gesponsord door Gainergy natuurlijk. <br> <br> Als je je nu inschrijft voor de <a href="Contact.html">niewsbrief</a> kunt u kans maken op 2 gratis tickets naar dit concert!</h1></article>
+    <article class="details3"><h1>Dit evenement van Tones And I wordt gegeven in Den-Haag op Scheveningen Strand. <br> Tones And I A.K.A <a href="artiesten.html">Toni Watson</a>, een Australische singer-songwriter die het bekendst is <br> door het nummer Dance Monkey met 15 weken op plek 1 van de Nederland top 40 <br> is toch een grote prestatie. In dit concert kunt u onderandere de liedjes "Johnny Run Away", <br> "Dance Monkey", "Never Seen The Rain" en vele andere. <br> Ook dit evenement wordt mede gesponsord door Gainergy natuurlijk. <br> <br> Als je je nu inschrijft voor de <a href="Contact.html">niewsbrief</a> kunt u kans maken op 2 gratis tickets naar dit concert!</h1></article>
 </section>
 
 <div class="footer">
