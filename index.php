@@ -59,7 +59,7 @@ $conn->close();
                 <li><a href="Product.html">Product</a></li>
                 <li><a href="Overons.html">Over ons</a></li>
                 <li><a href="GoedeDoelen.html">Goede Doelen</a></li>
-                <li><a href="FAQ.php">FAQ</a></li>
+                <li><a href="FAQ.html">FAQ</a></li>
                 <li><a href="Contact.html">Contact</a></li>
             </ul>
         </article>
