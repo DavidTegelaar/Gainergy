@@ -107,6 +107,11 @@
         font-size: 65px;
         color: #00f8f0;
     }
+    .details2 h1 {
+        position: absolute;
+        top: 5vh;
+        text-align: left;
+    }
     .details2:nth-child(1) {
         padding: 2%;
         text-align: left;
@@ -130,7 +135,6 @@
         border: solid black 2px;
         background-color: #3599c7;
     }
-    
     .footer {
         border: solid black 2px;
         padding: 2%;
